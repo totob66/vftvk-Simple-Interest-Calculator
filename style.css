@@ -1,4 +1,38 @@
-body {background-color:tan;}
-h1{color:green;}
+body {
+    background-color:black;
+    font-family:arial;
+    color:white
+    }
+h1{
+    color:grey;
+    font-family:verdana
+    }
+footer {
+    color: black
+    }
+.maindiv {
+    background-color: white;
+    color: black;
+    width:500px;
+    padding: 20px;
+    border-radius: 25px;
+    margin: auto;   
+}
+#ioSection{
+    margin-left:100px;
+    text-align: left;
+}
+
+#result{
+    display:inline-block;
+    width: 300px;
+    height: auto;
+}
+.ioLables {
+    display:inline-block;
+    width: 120px;
+    height: 30px;
+}
+
 
 
